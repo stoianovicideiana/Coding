@@ -1,3 +1,5 @@
+package Challenge11fromSession8;
+
 import java.util.Scanner;
 
 public class Calculator {
